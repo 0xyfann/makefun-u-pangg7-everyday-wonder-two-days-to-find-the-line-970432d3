@@ -1,0 +1,15 @@
+Write one original sentence, 1-200 characters, about a small moment of
+wonder in everyday life, for a pairwise AI judge that rewards surprise.
+
+The sentence must:
+- catch one small, real, specific everyday moment in a single sentence;
+- turn it at an angle the reader has not met before, so the phrasing
+  itself is the surprise;
+- land the surprise in one read, as one clear sentence;
+- stay grounded in something concrete and ordinary;
+- keep every word working, with no filler and no worn phrase.
+
+Make it funny. Avoid the kit's example moments (a lift door opening on a
+stranger's song, the pause before a kettle clicks, a puddle holding the
+whole sky). Pick a different ordinary object and give the wonder a
+playful, unexpected twist at the end.
